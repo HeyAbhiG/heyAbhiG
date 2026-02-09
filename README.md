@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on: Preparing for my next role by refreshing my technical skills in SQL, Python , Power BI.
+- I'm currently working on myself Preparing for my next role by refreshing my technical skills in SQL, Python , Power BI.
 - I'm looking to collaborate on: Projects or opportunities in data analysis and business intelligence, where I can apply my analytical and process optimization skills.
 - I'm looking for help with: Connecting with professionals in the data field and learning about opportunities for Business Analyst, Data Analyst, or Power BI Developer roles
 - I'm currently working on strengthening my data analytics foundation by learning:<br>Statistics & Python (Pandas, NumPy, Matplotlib) for data analysis and visualization.Snowflake for cloud data warehousing, Microsoft Azure for end-to-end data solutions.
