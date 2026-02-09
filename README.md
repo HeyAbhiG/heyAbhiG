@@ -1,5 +1,9 @@
 # 💫 About Me:
-- I'm currently working on: Preparing for my next role by refreshing my technical skills in SQL, Python , Power BI.<br>- I'm looking to collaborate on: Projects or opportunities in<br>data analysis and business intelligence, where I can apply <br>my analytical and process optimization skills.<br><br>I'm looking for help with: Connecting with professionals <br>in the data field and learning about opportunities for<br>Business Analyst, Data Analyst, or Power BI Developer roles<br><br>I'm currently working on strengthening my data analytics foundation by learning:<br>Statistics & Python (Pandas, NumPy, Matplotlib) for data analysis and visualization.<br>Snowflake for cloud data warehousing.<br>Microsoft Azure for end-to-end data solutions.<br> <br>Ask me about: Generating business insights from data, and the techniques<br>I used for data processing, data visualization, and dashboard reporting.
+- I'm currently working on: Preparing for my next role by refreshing my technical skills in SQL, Python , Power BI.
+- I'm looking to collaborate on: Projects or opportunities in data analysis and business intelligence, where I can apply my analytical and process optimization skills.
+- I'm looking for help with: Connecting with professionals <br>in the data field and learning about opportunities for<br>Business Analyst, Data Analyst, or Power BI Developer roles
+- I'm currently working on strengthening my data analytics foundation by learning:<br>Statistics & Python (Pandas, NumPy, Matplotlib) for data analysis and visualization.Snowflake for cloud data warehousing.<br>Microsoft Azure for end-to-end data solutions.
+- Ask me about: Generating business insights from data, and the techniques<br>I used for data processing, data visualization, and dashboard reporting.
 
 
 ## 🌐 Socials:
